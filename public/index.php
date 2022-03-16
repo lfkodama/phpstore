@@ -12,6 +12,8 @@ require_once('../vendor/autoload.php');
 require_once('../core/routes.php');
 
 
+
+
 /*
 - Carregar o config
 - Carregar classes
