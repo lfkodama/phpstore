@@ -10,13 +10,13 @@ define('PGSQL_HOST',  'localhost');
 define('PGSQL_DATABASE', 'php_store');
 define('PGSQL_PORT', '5432');
 define('PGSQL_USER', 'postgres');
-define('PGSQL_PASS', '#Wdj793hw');
+define('PGSQL_PASS', '');
 
 
 // E-Mail
 define('EMAIL_HOST',         'smtp.gmail.com');
 define('EMAIL_FROM',         'sempreviva.americana@gmail.com');
-define('EMAIL_PASS',         '#Wdj793hw');
+define('EMAIL_PASS',         '');
 define('EMAIL_PORT',         587);
 
 
